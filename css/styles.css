@@ -1,5 +1,6 @@
 body {
-  background-color: blue;
+  background-color: rgb(102, 173, 255);
+  margin: 50px;
 }
 
 h1, h2 {
